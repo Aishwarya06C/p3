@@ -1,9 +1,12 @@
 package p3;
+
+
+
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-public class Gct {
+public class GcTest {
 
 	
 
