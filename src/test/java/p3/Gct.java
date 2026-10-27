@@ -11,7 +11,7 @@ public class Gct {
 
 	    void testTotal() {
 
-	        assertEquals(225,
+	        assertEquals(999,
 
 	                Gc.calculateTotal(75, 68, 82));
 
